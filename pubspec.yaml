@@ -1,7 +1,7 @@
 name: gaaubesi_widget
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/rojanparajuli/office_widget
 
 environment:
   sdk: ^3.8.1

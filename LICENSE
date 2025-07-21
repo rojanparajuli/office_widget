@@ -1,33 +1,7 @@
-Try `flutter pub outdated` for more information.
-Publishing gaaubesi_widget 0.0.1 to https://pub.dev:
-├── CHANGELOG.md (<1 KB)
-├── LICENSE (<1 KB)
-├── README.md (1 KB)
-├── analysis_options.yaml (<1 KB)
-├── lib
-│   ├── example
-│   │   └── main.dart (1 KB)
-│   ├── gaaubesi_widget.dart (<1 KB)
-│   └── widget
-│       ├── bgcolor.dart (<1 KB)
-│       ├── custom_button.dart (<1 KB)
-│       └── custom_textfield.dart (1 KB)
-└── pubspec.yaml (1 KB)
+MIT License
 
-Total compressed archive size: 2 KB.
-Validating package... (1.4s)
+Copyright (c) 2025 [rojanparajuli]
 
-Publishing is forever; packages cannot be unpublished.
-Policy details are available at https://pub.dev/policy
-
-Do you want to publish gaaubesi_widget 0.0.1 to https://pub.dev (y/N)? y
-Pub needs your authorization to upload packages on your behalf.
-In a web browser, go to https://accounts.google.com/o/oauth2/auth?access_type=offline&approval_prompt=force&response_type=code&client_id=818368855108-8grd2eg9tj9f38os6f1urbcvsq399u8n.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A43943&code_challenge=foVD_dr8Z_bC0t6MYoPkO1bItjB4XGOpWNxYxnIZxSQ&code_challenge_method=S256&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email
-Then click "Allow access".
-
-Waiting for your authorization...
-Authorization received, processing...
-Successfully authorized.
-Uploading... (2.7s)
-Message from server: `LICENSE` file contains generic TODO.
-Failed to update packages.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
